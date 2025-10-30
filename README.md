@@ -49,7 +49,7 @@ He utilizado las siguientes herramientas para la gestión del código y la compi
 <p align="center">   <a href="https://github.com/dlukaa">     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dlukaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>   </a>   
   <a href="https://github.com/dlukaa">     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dlukaa&layout=compact&langs_count=8&theme=algolia"/>   </a> </p>
 
-<p align="center">   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dlukaa&theme=dark&hide_border=true"/> </p>
+
 
 ### 🤝🏻  Contacta conmigo
 <p> Estas son mis redes sociales con las que puedes contactar conmigo! </p>
