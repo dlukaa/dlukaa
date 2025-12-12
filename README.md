@@ -47,6 +47,7 @@ He utilizado las siguientes herramientas para la gestión del código y la compi
 ![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black)&nbsp;
 ### ⚙️  GitHub Analytics
 <p align="center">   <a href="https://github.com/dlukaa">     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dlukaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>   </a>   
+  <br>
   <a href="https://github.com/dlukaa">     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dlukaa&layout=compact&langs_count=8&theme=algolia"/>   </a> </p>
 
 
