@@ -7,8 +7,7 @@
 👨‍🎓 &nbsp;Actualmente, estoy cursando el **Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM)**.\
 💡 &nbsp;Anteriormente, completé el **Grado Medio de Sistemas Microinformáticos y Redes**.\
 📍 &nbsp;Resido en **Santovenia de Pisuerga, Valladolid**.\
-⚽ &nbsp;Mis *hobbies* son jugar al fútbol e intentar desarrollar algún programa útil, especialmente para **gestionar el equipo que entreno**.\
-✍️ &nbsp;He utilizado **GitHub** y tengo algunos conocimientos de **Git**.\
+⚽ &nbsp;Mis *hobbies* son jugar al fútbol e intentar desarrollar algún programa útil**.\
 💬 &nbsp;¡No dudes en contactarme para discutir proyectos de desarrollo!
 ✉️ &nbsp;Puedes escribirme un correo electrónico a danielagilrodriguez06@gmail.com.
 
